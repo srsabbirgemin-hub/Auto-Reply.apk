@@ -1,0 +1,6 @@
+{
+  "name": "Smart AI Auto Reply",
+  "description": "Privacy-first AI auto-reply assistant using Android Notification Listener Service, customizable categories, smart actions, custom commands, and local Keystore-encrypted AI API settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
